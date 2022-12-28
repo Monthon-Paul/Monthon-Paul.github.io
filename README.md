@@ -3,7 +3,7 @@ Authors: Monthon Paul
 
 Last Updated: 12/27/2022
 
-# Portfolio: 
+## Portfolio: 
 This is a side project where I would demonstrate my skills and abilities to build a simple Website run by Github pages.
 My intention for this side Project is to help my get stated in the ideas of Frontend Development. 
 I want to test out my skills and build a strong understanding with creating my first Website. 
